@@ -10,6 +10,7 @@ public class Main {
         double renda = 4000.0;
 
         System.out.println(x);
+        System.out.println(idade);
         System.out.printf("%.2f%n", x);
         System.out.printf("%.4f%n", x);
         Locale.setDefault(Locale.US);
